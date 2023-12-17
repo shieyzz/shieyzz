@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://moe-counter--e-workwork.repl.co/get/@sh-y-zu?theme=gelbooru" alt="feeeek" width="200">
+  <img src="https://moe-counter--e-workwork.repl.co/get/@sh-y-zu?theme=gelbooru" alt="feeeek" width="100">
 </p>
 
 
