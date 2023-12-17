@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7F524&background=FF110C00&center=true&vCenter=true&random=false&width=800&lines=Eternal+tech+explorer;Coding+through+the+waves;Byte+by+byte%2C+I+conquer;Infinite+curiosity%2C+zero+limits;Tech+enthusiast%2C+code+fanatic;Navigating+the+bits+of+life;Surfing+the+code+currents;Living+on+the+edge+of+tech;Bytes+today%2C+breakthroughs+tomorrow;Code%2C+coffee%2C+conquer" alt="Typing SVG" /></a>
 </p>
 
-<details> 
+<p align="center">
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -106,7 +106,7 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
