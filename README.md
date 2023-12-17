@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2EB6F7&background=FF110C00&center=true&vCenter=true&random=true&width=435&lines=Eternal+tech+explorer;Coding+through+the+waves;Byte+by+byte%2C+I+conquer;Infinite+curiosity%2C+zero+limits;Tech+enthusiast%2C+code+fanatic;Navigating+the+bits+of+life;Surfing+the+code+currents;Living+on+the+edge+of+tech;Bytes+today%2C+breakthroughs+tomorrow;Code%2C+coffee%2C+conquer)](https://git.io/typing-svg)
+
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -110,5 +112,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-[![An image of @shyzu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shyzu)](https://holopin.io/@shyzu)
