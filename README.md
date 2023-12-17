@@ -1,5 +1,5 @@
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2EB6F7&background=FF110C00&center=true&vCenter=true&random=false&width=435&lines=Eternal+tech+explorer;Coding+through+the+waves;Byte+by+byte%2C+I+conquer;Infinite+curiosity%2C+zero+limits;Tech+enthusiast%2C+code+fanatic;Navigating+the+bits+of+life;Surfing+the+code+currents;Living+on+the+edge+of+tech;Bytes+today%2C+breakthroughs+tomorrow;Code%2C+coffee%2C+conquer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2EB6F7&background=FF110C00&center=true&vCenter=true&random=false&width=435&lines=Eternal+tech+explorer;Coding+through+the+waves;Byte+by+byte%2C+I+conquer;Infinite+curiosity%2C+zero+limits;Tech+enthusiast%2C+code+fanatic;Navigating+the+bits+of+life;Surfing+the+code+currents;Living+on+the+edge+of+tech;Bytes+today%2C+breakthroughs+tomorrow;Code%2C+coffee%2C+conquer" alt="Typing SVG" /></a>
 </p>
 
 <details> 
