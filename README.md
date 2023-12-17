@@ -1,4 +1,7 @@
-![:feeeek](https://moe-counter--e-workwork.repl.co/get/@sh-y-zu?theme=gelbooru)
+<p align="right">
+  <img src="https://moe-counter--e-workwork.repl.co/get/@sh-y-zu?theme=gelbooru" alt="feeeek" width="200">
+</p>
+
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&size=35&pause=1000&color=F7F524&background=FF110C00&center=true&vCenter=true&random=false&width=800&lines=Eternal+tech+explorer;Coding+through+the+waves;Byte+by+byte%2C+I+conquer;Infinite+curiosity%2C+zero+limits;Tech+enthusiast%2C+code+fanatic;Navigating+the+bits+of+life;Surfing+the+code+currents;Living+on+the+edge+of+tech;Bytes+today%2C+breakthroughs+tomorrow;Code%2C+coffee%2C+conquer" alt="Typing SVG" /></a>
