@@ -20,12 +20,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-### 📊 Weekly development breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-<p align="center">Made with ❤️ in SLK</p>
 
