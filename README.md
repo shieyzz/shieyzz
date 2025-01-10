@@ -8,6 +8,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sh13y&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
